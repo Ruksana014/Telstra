@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1680759439,,"wq"
+|2,0,1680761350,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,33 @@
 # Registers:
 
 # File marks:
-'0  8  0  ~/accenture
-|4,48,8,0,1680759439,"~/accenture"
+'0  15  44  ~/production.java
+|4,48,15,44,1680761350,"~/production.java"
+'1  8  0  ~/accenture
+|4,49,8,0,1680759439,"~/accenture"
 
 # Jumplist (newest first):
+-'  15  44  ~/production.java
+|4,39,15,44,1680761350,"~/production.java"
+-'  1  0  ~/production.java
+|4,39,1,0,1680761201,"~/production.java"
+-'  8  0  ~/accenture
+|4,39,8,0,1680759439,"~/accenture"
 -'  8  0  ~/accenture
 |4,39,8,0,1680759439,"~/accenture"
 -'  1  0  ~/accenture
 |4,39,1,0,1680759367,"~/accenture"
+-'  1  0  ~/accenture
+|4,39,1,0,1680759367,"~/accenture"
 
 # History of marks within files (newest to oldest):
+
+> ~/production.java
+	*	1680761347	0
+	"	15	44
+	^	15	45
+	.	15	44
+	+	15	44
 
 > ~/accenture
 	*	1680759436	0
